@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   webdevops:
   - apiVersion: v1
-    created: "2023-02-15T15:34:12.740651+02:00"
-    digest: a43739549bb6cb1c3c066dda565f918c498f3704e47ace34eec4c4317ac824b6
+    created: "2023-02-20T10:23:48.429976+02:00"
+    digest: b420d4aea3ee2be384f485d21cc82b91dc81ccf6730c632737595772d2b96797
     name: webdevops
     urls:
     - https://github.com/dreamproduction/helm.git/webdevops-0.0.1.tgz
     version: 0.0.1
-generated: "2023-02-15T15:34:12.736244+02:00"
+generated: "2023-02-20T10:23:48.429524+02:00"
